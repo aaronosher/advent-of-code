@@ -12,4 +12,4 @@ while (i < input.length) {
         console.log("i = %s", i);
     }
 }
-console.log("Escaped in %s steps.", (steps-1));
+console.log("Escaped in %s steps.", (steps));

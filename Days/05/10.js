@@ -12,8 +12,6 @@ while (i < input.length) {
     }
     i = i + action;
     steps++;
-    if(1 < 0) {
-        console.log("i = %s", i);
-    }
+    // console.log("i = %s", i);
 }
-console.log("Escaped in %s steps.", (steps - 1));
+console.log("Escaped in %s steps.", (steps));
