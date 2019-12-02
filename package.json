@@ -1,0 +1,19 @@
+{
+  "name": "@aaronosher/advent-of-code-solutions",
+  "version": "0.0.0",
+  "description": "Advent of Code Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronosher/advent-of-code.git"
+  },
+  "author": "Aaron Osher <aaron@aaronosher.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronosher/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/aaronosher/advent-of-code#readme"
+}
